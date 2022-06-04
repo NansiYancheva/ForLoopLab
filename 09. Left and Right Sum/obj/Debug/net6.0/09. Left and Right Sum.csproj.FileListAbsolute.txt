@@ -1,0 +1,15 @@
+C:\Visual Studio\Lekcii26.02\09. Left and Right Sum\bin\Debug\net6.0\09. Left and Right Sum.exe
+C:\Visual Studio\Lekcii26.02\09. Left and Right Sum\bin\Debug\net6.0\09. Left and Right Sum.deps.json
+C:\Visual Studio\Lekcii26.02\09. Left and Right Sum\bin\Debug\net6.0\09. Left and Right Sum.runtimeconfig.json
+C:\Visual Studio\Lekcii26.02\09. Left and Right Sum\bin\Debug\net6.0\09. Left and Right Sum.dll
+C:\Visual Studio\Lekcii26.02\09. Left and Right Sum\bin\Debug\net6.0\ref\09. Left and Right Sum.dll
+C:\Visual Studio\Lekcii26.02\09. Left and Right Sum\bin\Debug\net6.0\09. Left and Right Sum.pdb
+C:\Visual Studio\Lekcii26.02\09. Left and Right Sum\obj\Debug\net6.0\09. Left and Right Sum.csproj.AssemblyReference.cache
+C:\Visual Studio\Lekcii26.02\09. Left and Right Sum\obj\Debug\net6.0\09. Left and Right Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\Lekcii26.02\09. Left and Right Sum\obj\Debug\net6.0\09. Left and Right Sum.AssemblyInfoInputs.cache
+C:\Visual Studio\Lekcii26.02\09. Left and Right Sum\obj\Debug\net6.0\09. Left and Right Sum.AssemblyInfo.cs
+C:\Visual Studio\Lekcii26.02\09. Left and Right Sum\obj\Debug\net6.0\09. Left and Right Sum.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Lekcii26.02\09. Left and Right Sum\obj\Debug\net6.0\09. Left and Right Sum.dll
+C:\Visual Studio\Lekcii26.02\09. Left and Right Sum\obj\Debug\net6.0\ref\09. Left and Right Sum.dll
+C:\Visual Studio\Lekcii26.02\09. Left and Right Sum\obj\Debug\net6.0\09. Left and Right Sum.pdb
+C:\Visual Studio\Lekcii26.02\09. Left and Right Sum\obj\Debug\net6.0\09. Left and Right Sum.genruntimeconfig.cache

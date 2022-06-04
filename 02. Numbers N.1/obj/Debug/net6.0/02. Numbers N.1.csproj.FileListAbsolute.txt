@@ -1,0 +1,15 @@
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\02. Numbers N.1\bin\Debug\net6.0\02. Numbers N.1.exe
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\02. Numbers N.1\bin\Debug\net6.0\02. Numbers N.1.deps.json
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\02. Numbers N.1\bin\Debug\net6.0\02. Numbers N.1.runtimeconfig.json
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\02. Numbers N.1\bin\Debug\net6.0\02. Numbers N.1.dll
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\02. Numbers N.1\bin\Debug\net6.0\ref\02. Numbers N.1.dll
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\02. Numbers N.1\bin\Debug\net6.0\02. Numbers N.1.pdb
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\02. Numbers N.1\obj\Debug\net6.0\02. Numbers N.1.csproj.AssemblyReference.cache
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\02. Numbers N.1\obj\Debug\net6.0\02. Numbers N.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\02. Numbers N.1\obj\Debug\net6.0\02. Numbers N.1.AssemblyInfoInputs.cache
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\02. Numbers N.1\obj\Debug\net6.0\02. Numbers N.1.AssemblyInfo.cs
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\02. Numbers N.1\obj\Debug\net6.0\02. Numbers N.1.csproj.CoreCompileInputs.cache
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\02. Numbers N.1\obj\Debug\net6.0\02. Numbers N.1.dll
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\02. Numbers N.1\obj\Debug\net6.0\ref\02. Numbers N.1.dll
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\02. Numbers N.1\obj\Debug\net6.0\02. Numbers N.1.pdb
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\02. Numbers N.1\obj\Debug\net6.0\02. Numbers N.1.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\04. Even Powers of 2\bin\Debug\net6.0\04. Even Powers of 2.exe
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\04. Even Powers of 2\bin\Debug\net6.0\04. Even Powers of 2.deps.json
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\04. Even Powers of 2\bin\Debug\net6.0\04. Even Powers of 2.runtimeconfig.json
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\04. Even Powers of 2\bin\Debug\net6.0\04. Even Powers of 2.dll
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\04. Even Powers of 2\bin\Debug\net6.0\ref\04. Even Powers of 2.dll
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\04. Even Powers of 2\bin\Debug\net6.0\04. Even Powers of 2.pdb
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\04. Even Powers of 2\obj\Debug\net6.0\04. Even Powers of 2.csproj.AssemblyReference.cache
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\04. Even Powers of 2\obj\Debug\net6.0\04. Even Powers of 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\04. Even Powers of 2\obj\Debug\net6.0\04. Even Powers of 2.AssemblyInfoInputs.cache
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\04. Even Powers of 2\obj\Debug\net6.0\04. Even Powers of 2.AssemblyInfo.cs
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\04. Even Powers of 2\obj\Debug\net6.0\04. Even Powers of 2.csproj.CoreCompileInputs.cache
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\04. Even Powers of 2\obj\Debug\net6.0\04. Even Powers of 2.dll
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\04. Even Powers of 2\obj\Debug\net6.0\ref\04. Even Powers of 2.dll
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\04. Even Powers of 2\obj\Debug\net6.0\04. Even Powers of 2.pdb
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\04. Even Powers of 2\obj\Debug\net6.0\04. Even Powers of 2.genruntimeconfig.cache

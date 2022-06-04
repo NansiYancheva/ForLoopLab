@@ -1,0 +1,14 @@
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\03. Numbers 1.N with Step 3\bin\Debug\net6.0\03. Numbers 1.N with Step 3.exe
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\03. Numbers 1.N with Step 3\bin\Debug\net6.0\03. Numbers 1.N with Step 3.deps.json
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\03. Numbers 1.N with Step 3\bin\Debug\net6.0\03. Numbers 1.N with Step 3.runtimeconfig.json
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\03. Numbers 1.N with Step 3\bin\Debug\net6.0\03. Numbers 1.N with Step 3.dll
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\03. Numbers 1.N with Step 3\bin\Debug\net6.0\ref\03. Numbers 1.N with Step 3.dll
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\03. Numbers 1.N with Step 3\bin\Debug\net6.0\03. Numbers 1.N with Step 3.pdb
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\03. Numbers 1.N with Step 3\obj\Debug\net6.0\03. Numbers 1.N with Step 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\03. Numbers 1.N with Step 3\obj\Debug\net6.0\03. Numbers 1.N with Step 3.AssemblyInfoInputs.cache
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\03. Numbers 1.N with Step 3\obj\Debug\net6.0\03. Numbers 1.N with Step 3.AssemblyInfo.cs
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\03. Numbers 1.N with Step 3\obj\Debug\net6.0\03. Numbers 1.N with Step 3.csproj.CoreCompileInputs.cache
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\03. Numbers 1.N with Step 3\obj\Debug\net6.0\03. Numbers 1.N with Step 3.dll
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\03. Numbers 1.N with Step 3\obj\Debug\net6.0\ref\03. Numbers 1.N with Step 3.dll
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\03. Numbers 1.N with Step 3\obj\Debug\net6.0\03. Numbers 1.N with Step 3.pdb
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\03. Numbers 1.N with Step 3\obj\Debug\net6.0\03. Numbers 1.N with Step 3.genruntimeconfig.cache

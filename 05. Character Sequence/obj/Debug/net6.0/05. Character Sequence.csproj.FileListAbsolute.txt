@@ -1,0 +1,15 @@
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\05. Character Sequence\bin\Debug\net6.0\05. Character Sequence.exe
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\05. Character Sequence\bin\Debug\net6.0\05. Character Sequence.deps.json
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\05. Character Sequence\bin\Debug\net6.0\05. Character Sequence.runtimeconfig.json
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\05. Character Sequence\bin\Debug\net6.0\05. Character Sequence.dll
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\05. Character Sequence\bin\Debug\net6.0\ref\05. Character Sequence.dll
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\05. Character Sequence\bin\Debug\net6.0\05. Character Sequence.pdb
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\05. Character Sequence\obj\Debug\net6.0\05. Character Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\05. Character Sequence\obj\Debug\net6.0\05. Character Sequence.AssemblyInfoInputs.cache
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\05. Character Sequence\obj\Debug\net6.0\05. Character Sequence.AssemblyInfo.cs
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\05. Character Sequence\obj\Debug\net6.0\05. Character Sequence.csproj.CoreCompileInputs.cache
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\05. Character Sequence\obj\Debug\net6.0\05. Character Sequence.dll
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\05. Character Sequence\obj\Debug\net6.0\ref\05. Character Sequence.dll
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\05. Character Sequence\obj\Debug\net6.0\05. Character Sequence.pdb
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\05. Character Sequence\obj\Debug\net6.0\05. Character Sequence.genruntimeconfig.cache
+C:\Visual Studio\16.02.02\Lekcii26.02.ForLoop\05. Character Sequence\obj\Debug\net6.0\05. Character Sequence.csproj.AssemblyReference.cache
